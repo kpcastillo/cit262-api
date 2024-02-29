@@ -1,0 +1,23 @@
+{
+  "name": "cit262-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpcastillo/cit262-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpcastillo/cit262-api/issues"
+  },
+  "homepage": "https://github.com/kpcastillo/cit262-api#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "node-fetch2": "^1.6.3"
+  }
+}
