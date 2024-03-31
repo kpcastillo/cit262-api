@@ -15,7 +15,7 @@ template:
     containers:
       - name: karen-api
 # This image is going to be the path to the image you create in a future step 
-      image: us-docker.pkg.dev/april-2023-online-cit-262/karen-api/api-tests 
+      image: us-west4-docker.pkg.dev/my-project-1st-416402/karen-api
       ports:
         - containerPort: 3000 
       resources:
