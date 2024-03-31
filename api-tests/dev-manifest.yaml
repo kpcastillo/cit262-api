@@ -37,7 +37,7 @@ template:
         httpGet:
           path: / 
           port: 3000
-          scheme: HTTP
+          scheme: HTTPax
         failureThreshold: 30
         periodSeconds: 10
         timeoutSeconds: 10
